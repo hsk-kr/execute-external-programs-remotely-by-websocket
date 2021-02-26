@@ -1,10 +1,12 @@
-# Remote PC by WebSocket
+# Execute External Programs Remotely With WebSocket
 
 This is a server that open an external program from a client's request. <br/>
 This is a project for practicing purposes.<br/>
 It doesn't support production build.
 
 # Preview
+
+![A Preview Image](https://github.com/hsk-kr/execute-external-programs-remotely-by-websocket/blob/main/preview/preview.gif?raw=true)
 
 # WebClient
 
